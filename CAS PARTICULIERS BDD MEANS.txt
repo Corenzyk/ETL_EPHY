@@ -1,0 +1,45 @@
+BDD means :
+	
+	Substance non présentes (non exhaustif):
+Pyrethrins
+Dichlobenil
+Prometryne
+Sulfate double d'oxyquinoleine et de potassium
+Sulphur
+Dimethyl polysiloxane
+Iron sulphate
+Azinphos-methyl
+Alpha-Cypermethrin
+Copper compounds
+Chlorpropham
+Alkyl phenol oxyethylene
+Iprovalicarb
+Benomyl
+Fenamidone
+Silthiofam
+Fluazifop-P
+Fosetyl
+
+
+	Substance erreur nom (non exhaustif):
+Bromoxynil octanoate - Bromoxynil-octanoate
+Bromoxynil phenol - Bromoxynil-phenol
+Bacillus thuringiensis subsp. kurstaki strain ABTS 351 - Bacillus thuringiensis (NA)
+Alcools terpeniques - Alcools terpéniques
+Chlorpyrifos-éthyl - Chlorpyrifos-éthyl (NA)
+Propoxycarbazone sodium - Propoxycarbazone-sodium
+oxychlorure de cuivre - Cuivre de l'Oxychlorure de cuivre
+
+	Erreur traitées :
+Vérification du nom avant les seconds noms
+Espace en trop à la fin du nom
+Lettre "e" manquante à la fin du nom
+Mention "(NA)" manquante à la fin du nom
+Mention "HCl" manquante à le fin du nom (Propamocarb)
+Nombre "2,4" manquant au début du nom (MCPA)
+Remplacer le tiret par un espace ou l'inverse
+(La fusion de plusieurs vérification de cas particuliers est possible, dont certaines déjà réalisés sur le script)
+
+Il est important lors de l'ajout d'une vérification de le faire pour le "nom" et le "seconds noms"
+
+
